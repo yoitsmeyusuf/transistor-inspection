@@ -1,0 +1,7 @@
+# PyTorch CUDA 12.8: uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+anomalib==2.7.1
+ultralytics==8.4.215
+opencv-python-headless
+matplotlib
+jupyter
+ipykernel
